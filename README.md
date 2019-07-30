@@ -5,7 +5,8 @@ Emulate mobile network latency based on large-scale real-world measurements.
 
 This repository provides several `netem` latency profiles for emulating mobile networks. One can choose among several operators, radio access technologies and signal quality. All measurements are taken from real-world measurements, thanks to the [MONROE](https://www.monroe-project.eu/) mobile nodes. 
 
-More details are available in the [paper](https://cione/).
+<!--- More details are available in the [paper](https://link/).) -->
+
 
 ## Available scenarios
 We provide data for X operators over X countries. Moreover we provide separate scenarios for radio access technology (3G, 4G), signal strength, and whether the SIM card was in roaming.
